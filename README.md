@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Jayesh Bairagi
 
-<!--
-**BugWithJayesh/BugWithJayesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student interested in software development and web technologies.
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C, C++
+- Data Structures and Algorithms
+- Git and GitHub
+
+## Projects
+
+### Personal Portfolio
+
+A responsive portfolio created to showcase my projects, education and learning journey.
+
+- Live Demo: myportfolio-o2ll90zcq-jay3sh1.vercel.app 
+- Repository: https://myportfolio-6qc2qit8j-jay3sh1.vercel.app/
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/jayesh-bairagi-904a76421/
+- Portfolio: myportfolio-o2ll90zcq-jay3sh1.vercel.app
