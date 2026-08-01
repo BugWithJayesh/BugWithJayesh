@@ -14,11 +14,11 @@ Computer Science Engineering student interested in software development and web 
 
 A responsive portfolio created to showcase my projects, education and learning journey.
 
-- Live Demo: myportfolio-git-feature-scroll-hero-jay3sh1.vercel.app
 - Repository: https://myportfolio-6qc2qit8j-jay3sh1.vercel.app/
 
 ## Connect With Me
 
 - Linktree: https://linktr.ee/jayeshbairagi
 - LinkedIn: https://www.linkedin.com/in/jayesh-bairagi/
-- Portfolio: [myportfolio-o2ll90zcq-jay3sh1.vercel.app](https://myportfolio-five-ruddy-40.vercel.app/)
+- Portfolio: myportfolio-jay3sh1.vercel.app
+
