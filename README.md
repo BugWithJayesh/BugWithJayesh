@@ -19,5 +19,5 @@ A responsive portfolio created to showcase my projects, education and learning j
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/jayesh-bairagi-904a76421/
+- LinkedIn: https://www.linkedin.com/in/jayesh-bairagi/
 - Portfolio: myportfolio-o2ll90zcq-jay3sh1.vercel.app
