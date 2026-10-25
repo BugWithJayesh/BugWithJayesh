@@ -20,5 +20,5 @@ A responsive portfolio created to showcase my projects, education and learning j
 
 - Linktree: https://linktr.ee/jayeshbairagi
 - LinkedIn: https://www.linkedin.com/in/jayesh-bairagi/
-- Portfolio: https://myportfolio-five-ruddy-40.vercel.app/
+- Portfolio: https://jayesh-portfolio-v2-iota.vercel.app/
 
