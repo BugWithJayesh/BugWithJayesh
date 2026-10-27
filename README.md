@@ -14,5 +14,5 @@ Computer Science Engineering student.
 
 - Linktree: https://linktr.ee/jayeshbairagi
 - LinkedIn: https://www.linkedin.com/in/jayesh-bairagi/
-- Portfolio: https://jayesh-portfolio-v2-iota.vercel.app/
+- Portfolio: https://jayesh-bairagi.vercel.app/
 
